@@ -1,0 +1,23 @@
+posisi  ; Industrial Engineering Technician
+
+nama : Justine Mante DDS
+
+alamat : Lenoremouth, GA 48306-6288
+
+no : +469180390526
+
+
+/*
+|--------------------------------------------------------------------------
+| 500 | server error:
+|--------------------------------------------------------------------------
+|  Create the .env file and also run:
+|    | php artisan key:generate |
+|
+| This worked for me after pulling a git project.
+|
+| After creating .env file and generating the key, run the code below:
+|    php artisan cache:clear 
+|    php artisan config:clear
+|
+|*/
